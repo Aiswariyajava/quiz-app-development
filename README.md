@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💬 Real-Time Chat Application
 
 A modern, responsive, and user-friendly real-time chat application built with Node.js, Express, and Socket.io.
@@ -170,3 +171,6 @@ MIT License - Feel free to use this project however you like!
 ---
 
 **Happy Chatting! 💬**
+=======
+# quiz-app-development
+>>>>>>> fc998c07d7e3c58d0f5184f58da9dee7c30db5c8
